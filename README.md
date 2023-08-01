@@ -11,7 +11,7 @@ Avant de lancer le script vous devez effectuez c'est étape
 - Retirer le `-main` dans `lckDiscordConsoleFiveM-main`
 - Extraire le fichier `node_modules.rar`
 - Ouvrir le [config.json](https://github.com/Loockxy/lckDiscordConsoleFiveM/blob/main/config.json)
-- Modifier `token` et copier coller celui que se trouve dans https://discord.com/developers/application
+- Modifier `token` et copier coller celui que se trouve dans https://discord.com/developers/applications/
 - Modifier `owner` et mettre son ID Discord
 - Enregistrer le fichier [config.json](https://github.com/Loockxy/lckDiscordConsoleFiveM/blob/main/config.json)
 - Obtenez le lien d'invitation du bot Discord dans OAuth2 > URL Generator
