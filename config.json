@@ -1,4 +1,4 @@
 {
-	token: "token du bot",
-	owner: "ton id"
+	"token": "token du bot",
+	"owner": "ton id"
 }
